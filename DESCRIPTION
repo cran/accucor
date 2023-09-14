@@ -1,7 +1,7 @@
 Package: accucor
 Type: Package
 Title: Natural Abundance Correction of Mass Spectrometer Data
-Version: 0.3.0
+Version: 0.3.1
 Authors@R: c(
     person(given = "Xiaoyang",
            family = "Su",
@@ -30,14 +30,14 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Imports: nnls, dplyr, stringr, readxl, readr, rlang, tibble, writexl,
         CHNOSZ
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.3
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2021-11-17 01:49:51 UTC; lparsons
+Packaged: 2023-09-14 14:08:53 UTC; lparsons
 Author: Xiaoyang Su [aut] (<https://orcid.org/0000-0001-8081-1396>),
   Lance Parsons [aut, cre] (<https://orcid.org/0000-0002-8521-714X>),
   Yujue Wang [ctb] (<https://orcid.org/0000-0001-7088-1729>),
   Princeton University [cph]
 Maintainer: Lance Parsons <lparsons@princeton.edu>
 Repository: CRAN
-Date/Publication: 2021-11-17 11:40:12 UTC
+Date/Publication: 2023-09-14 15:30:05 UTC
